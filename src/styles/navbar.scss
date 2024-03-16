@@ -1,0 +1,145 @@
+.header {
+  height: 65px;
+  display: flex;
+  align-items: center;
+  background-color: #131921;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header__logo {
+  width: 100px;
+  object-fit: contain;
+  margin: 0 20px;
+  margin-top: 18px;
+}
+
+.location-text {
+  color: #cccccc;
+  margin-left: 0rem;
+  span {
+    color: white;
+    font-weight: 700;
+  }
+}
+.location-icon {
+  color: white;
+  font-size: large;
+  margin: 1.5rem 0rem 0rem 1.3rem;
+}
+.amz-logo {
+  height: 3.5rem;
+  width: 9rem;
+  margin: 0.1rem 0rem 0rem 0.5rem;
+  mix-blend-mode: lighten;
+}
+.amz-logo:hover {
+  border: 1px white solid;
+  cursor: pointer;
+}
+.header__search {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  border-radius: 24px;
+}
+
+.all-text-btn {
+  margin-left: 8rem;
+  background-color: #e6e6e6;
+  border: none;
+  height: 2.8rem;
+  width: 4rem;
+  margin-left: 2rem;
+  border-radius: 5px 0px 0px 5px;
+}
+.down-arrow {
+  color: rgb(157, 153, 153);
+  margin-left: 0.5rem;
+  font-size: larger;
+}
+.header__searchInput {
+  height: 45px;
+  padding: 18px;
+  border: none;
+  width: 70%;
+}
+
+.header__searchIcon {
+  padding: 5px;
+  height: 22px !important;
+  background-color: #cd9042;
+}
+
+.search-btn {
+  height: 2.8rem;
+  width: 4rem;
+  margin-left: -9px;
+  border: none;
+  border-radius: 0px 5px 5px 0px;
+  background-color: #f8ae4d;
+  font-size: larger;
+  cursor: pointer;
+}
+
+.search-btn:hover {
+  background-color: #f7971a;
+}
+
+.header__optionLineOne {
+  font-size: 10px;
+}
+
+.header__optionLineTwo {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.header__optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.header__basketCount {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header__option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  margin-top: 1rem;
+}
+
+.flag {
+  height: 1rem;
+  width: 1.5rem;
+}
+
+.lang {
+  color: white;
+  font-weight: 500;
+  margin-top: -2px;
+}
+
+.flag-arrow {
+  color: rgb(157, 153, 153);
+  font-size: larger;
+}
+
+.cart-icon {
+  color: white;
+  height: 40px;
+  width: 50px;
+  // margin-left: -76px;
+}

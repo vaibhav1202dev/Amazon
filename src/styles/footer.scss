@@ -1,0 +1,115 @@
+.footer {
+  margin-top: 26rem;
+  background-color: #232f3e;
+}
+
+.back-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #37475a;
+  height: 3rem;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.footer-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 5rem 10rem 0rem 10rem;
+}
+
+.footer-row {
+  line-height: 1.8rem;
+  color: #dddddd;
+  font-weight: 500;
+}
+
+.footer-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: white;
+}
+
+.divider-line {
+  background-color: rgb(116, 106, 126);
+  height: 0.1px;
+  margin-top: 1.5rem;
+}
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5rem;
+}
+
+.amazon-logo-footer {
+  height: 4rem;
+  width: 5rem;
+  mix-blend-mode: lighten;
+  margin-left: -5rem;
+}
+
+.footer-lang {
+  margin-left: 5rem;
+  border: 1px white solid;
+  padding: 5px;
+  margin-top: -0.5rem;
+  color: white;
+}
+
+.arrow1 {
+  color: grey;
+}
+
+.country-names {
+  margin-left: 6rem;
+  color: white;
+  word-spacing: 1rem;
+  //   margin-bottom: 5rem;
+  padding-bottom: 3rem;
+}
+
+.down-footer-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 0rem 10rem 0rem 10rem;
+}
+
+.down-footer {
+  background-color: #131a22;
+  padding-top: 2rem;
+}
+
+.down-footer-title {
+  color: #dddddd;
+}
+
+.down-footer-row {
+  color: #999999;
+}
+
+.list-title {
+  margin-top: 1rem;
+  margin-bottom: -25px;
+  color: #dddddd;
+}
+
+.lnc-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  color: #dddddd;
+}
+
+.last-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0rem;
+  color: #dddddd;
+  padding-bottom: 2rem;
+}

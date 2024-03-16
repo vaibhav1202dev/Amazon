@@ -1,0 +1,30 @@
+.main-container {
+  background-color: white;
+}
+.products-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin: 4rem 0rem -18rem 12rem;
+}
+
+.link {
+  color: white;
+}
+
+.product-details {
+  color: black;
+}
+
+.home-p {
+  width: 100%;
+}
+
+.pro-img {
+  height: 13rem;
+  width: 15rem;
+}
+
+.home-link {
+  color: black;
+}

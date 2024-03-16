@@ -1,0 +1,75 @@
+.header-line {
+  background-color: rgb(49, 49, 69);
+  height: 3.5rem;
+  margin-bottom: -0.5rem;
+}
+
+.header-line-text {
+  color: white;
+  margin-top: -1.8rem;
+  font-weight: 700;
+  margin-left: 2rem;
+  cursor: pointer;
+}
+
+.menu-icon {
+  font-size: xx-large;
+  margin-top: 0.4rem;
+  color: white;
+  cursor: pointer;
+  margin-left: -1.5rem;
+}
+.canvas-btn {
+  margin-top: 1px;
+}
+
+.headers-menu-list {
+  color: white;
+  margin-left: 2rem;
+  margin-top: -1.9rem;
+}
+
+.header-span {
+  margin-left: 1.5rem;
+  font-weight: 500;
+}
+.header-span:hover {
+  cursor: pointer;
+  border: 1px white solid;
+  padding: 2px;
+}
+.header-span-1 {
+  margin-left: 3.5rem;
+  font-weight: 500;
+}
+.header-span-1:hover {
+  cursor: pointer;
+  border: 0px white solid;
+}
+.span-text {
+  margin-left: 4rem;
+  color: rgb(214, 208, 208);
+  font-size: medium;
+}
+
+.span-arrow {
+  margin-bottom: -5px;
+}
+
+.canvas-title {
+  background-color: #232f3e;
+  height: 5rem;
+  width: 24rem;
+  margin-right: -9rem;
+  color: white;
+}
+
+.canvas-title-text {
+  margin-top: 1rem;
+  font-weight: 900;
+}
+
+.header-canvas-title {
+  font-size: larger;
+  font-weight: 700;
+}
