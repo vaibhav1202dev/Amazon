@@ -44,9 +44,9 @@ const KitchenCarousel = () => {
           <Carousel.Item interval={900000}>
             <span className="carousel-title">
               Up to 50% off | Elevate your kitchen aesthetics with best kitchen
-              appliances
+              appliances.
             </span>{" "}
-            <span className="all-deal-text-2">See all deals</span>
+            <span className="all-deal-text-2">See all deals.</span>
             <div className="slider-products">
               <Link
                 to="kitchen"
